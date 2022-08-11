@@ -1,0 +1,16 @@
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.exe
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.deps.json
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.runtimeconfig.json
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.runtimeconfig.dev.json
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.dll
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\bin\Debug\net5.0\SistemaParaVendaDeIngressos.pdb
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.csproj.AssemblyReference.cache
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.AssemblyInfo.cs
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.dll
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\refint\SistemaParaVendaDeIngressos.dll
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.pdb
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\SistemaParaVendaDeIngressos.genruntimeconfig.cache
+C:\Users\amand\Documents\Amanda Projetos\VendaDeIngressos\SistemaParaVendaDeIngressos\obj\Debug\net5.0\ref\SistemaParaVendaDeIngressos.dll
